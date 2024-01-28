@@ -1,0 +1,16 @@
+body{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+}
+body img{
+    width: 100%;
+}
+body button{
+    width: 10%;
+    border-radius: 10px;
+    background-color:antiquewhite;
+
+    
+}
+
